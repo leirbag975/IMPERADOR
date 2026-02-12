@@ -1,4 +1,3 @@
-# IMPERADOR
 --// [IMPERADOR] • LOADING SCREEN IMPERIAL (MODIFICADO: AZUL & PRETO) //--
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
