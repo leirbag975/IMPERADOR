@@ -76,7 +76,7 @@ Instance.new("UICorner", Bar).CornerRadius = UDim.new(1,0)
 TweenService:Create(Logo, TweenInfo.new(0.6), {TextTransparency = 0}):Play()
 TweenService:Create(Sub, TweenInfo.new(0.6), {TextTransparency = 0}):Play()
 
-local phrases = {"VERIFICANDO DADOS...", "CARREGANDO RECURSOS...", "ACESSO RESTRITO..."}
+local phrases = {"CARREGANDO IMPERIO...", "ARRUMANDO GUARDAS...", "O REI CHEGOU!!..."}
 task.spawn(function()
     for i, text in ipairs(phrases) do
         Phrase.TextTransparency = 1
